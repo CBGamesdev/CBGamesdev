@@ -4,5 +4,4 @@ I mostly specialize in Flash Games, as I try to make all the games I had before,
 
 Also, i'm learning how to code basic HTML websites (something I have succeded at!) So keep an eye out for some websites soon. Or never. I have an bad sense of time. 
 
-<img src="https://pbs.twimg.com/media/Bun9MwsCIAALrRg?format=jpg&amp;name=small" alt="Image"/>![image](https://user-images.githubusercontent.com/64821800/117992945-4a741380-b30d-11eb-909f-78145bb342ea.png)
-
+<img src="https://pbs.twimg.com/media/Bun9MwsCIAALrRg?format=jpg&amp;name=small" alt="Image"/>!
