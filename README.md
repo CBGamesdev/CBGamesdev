@@ -1,9 +1,8 @@
-Hello, I'm CBGamesDev. I'm the sole amature programmer for a google site, which you can find with a quick google search. 
+Hello, I'm CBGamesDev. I'm the sole amature programmer for a "game site", which you can find with a quick google search. 
 
-I mostly specialize in emulating Flash Games, as I try to make all the games I had before, unblocked and playable still and to help out new Unblocked Games website makers. 
+I mostly specialize in emulating Flash Games, as I try to make all the games I had before, unblocked and playable still.
 
-Also, I'm learning how to code basic HTML websites (something I have succeded at!) So keep an eye out for some websites soon. Or never. I have an bad sense of time. 
-
+My main focus is on The Chili Bowl Stash; a collection or various games that people can access whenever they want in the most barebone way possible. No ADs or promotions. It's also a way for newbie website makers to get some games on their wesbsite by embedding. Enjoy. 
                                         
                                                                    
                                                                    
